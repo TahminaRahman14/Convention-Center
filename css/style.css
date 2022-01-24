@@ -1,0 +1,8 @@
+.banner-heading h1,
+p {
+    color: white;
+}
+
+.banner-heading h1 {
+    font-size: 50px;
+}
