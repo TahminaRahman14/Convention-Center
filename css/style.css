@@ -1,5 +1,5 @@
 .banner-heading h1,
-p {
+.banner-heading p {
     color: white;
 }
 
@@ -11,4 +11,29 @@ p {
 
     background-color: #3F87F5;
 
+}
+
+h2 {
+
+    font-weight: 700;
+}
+
+h6 {
+
+    font-weight: 400;
+}
+
+.btn {
+
+    font-weight: 500;
+    color: blue;
+    background-color: lightgray;
+    border: none;
+
+}
+
+.fa-check-circle {
+
+    color: #5243C2;
+    opacity: 0.5;
 }
